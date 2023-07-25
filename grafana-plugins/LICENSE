@@ -1,0 +1,152 @@
+License
+
+By downloading or using the Isovalent Plugin for interoperability between
+Isovalent’s open source software offering (“Cilium”), Isovalent’s enterprise
+software offering (“Isovalent Cilium Enterprise”) and Grafana Lab’s software
+offerings (such Isovalent Plugin, the “Software”), you and, if applicable, the
+company or entity that you represent (collectively, “you” or “your”) are
+consenting to be bound by and are becoming a party to this License Agreement
+(this “Agreement”) with Isovalent, Inc. (“Isovalent”).  If applicable, you
+hereby represent and warrant that you are authorized and lawfully able to bind
+such company or entity that you represent to this Agreement.  If you do not
+have such authority or if you otherwise do not agree to all of the terms of
+this Agreement, you may not download or use the Software.
+
+1.  LICENSE GRANT.  The Software is licensed and not sold.  Subject to your
+compliance with this Agreement, Isovalent hereby grants you a limited,
+personal, non-exclusive, non-sublicensable, non-transferable, royalty-free
+license to (a) use the Software internally and solely in connection with your
+use of Cilium (in connection with Grafana) and (b) distribute the Software to
+third parties on a stand-alone basis (and not incorporated in any of your
+products) and without charging any fees, subject to their agreement with the
+terms and conditions of this Agreement.
+
+2.  RESTRICTIONS.  Except as otherwise expressly authorized herein, you will
+not directly or indirectly: use, disclose, modify, sublicense, sell, assign,
+distribute or otherwise exploit in any manner the Software, including that you
+will not directly or indirectly use the Software in connection with any
+website, product or service other than Cilium (in connection with Grafana), in
+violation of any applicable laws or regulations or otherwise outside of the
+scope of the license granted in Section 1.  In addition, you will not directly
+or indirectly obtain or attempt to obtain the source code for the Software by
+any means, including reverse engineering, decompilation, disassembly,
+translation or similar manipulation of the Software, unless and only to the
+extent that applicable law in your jurisdiction specifically gives you the
+right to do any of the foregoing; and you will not remove any copyright or
+other proprietary notices or trademarks or other branding for the Software.
+You will protect the confidentiality of the Software using those measures that
+you use to protect your most sensitive software and information (which must be
+at least reasonable measures), provided that you may distribute the Software
+in accordance with the license above.  You will immediately notify Isovalent
+of any unauthorized use, access to or disclosure of the Software of which you
+become aware.
+
+3.  OWNERSHIP.  As between you and Isovalent, all right, title and interest in
+and to the Software, and any copies or portions thereof, shall remain with
+Isovalent and its suppliers or licensors. You hereby covenant that you will
+not assert any claim that the Software or any modifications or derivative
+works thereof created by or for Isovalent or any of its affiliates infringe
+any intellectual property right owned or controlled by you or any of your
+affiliates.  You understand that Isovalent may modify or discontinue offering
+the Software at any time without notice.  The Software is protected by the
+copyright and other intellectual property laws of the United States and
+international copyright treaties.  Nothing in this Agreement gives you a right
+to use any of Isovalent’s trade names, trademarks, service marks, logos,
+domain names, or other distinctive brand features.  Isovalent does not grant
+any and reserves all rights not expressly and unambiguously granted herein.
+
+4.  SUPPORT AND UPGRADES.  Isovalent has no obligation hereunder to provide
+technical support or training to you.  If Isovalent provides you with any
+updates, upgrades, patches, enhancements or fixes for the Software that it
+makes generally available free of charge in connection with the Software, then
+the items that are provided will become part of the Software and subject to
+this Agreement, unless indicated otherwise by Isovalent.
+
+5.  INDEMNITY.  You agree that Isovalent shall have no liability whatsoever
+for any use you make of the Software.  You hereby agree to indemnify and hold
+harmless Isovalent and its affiliates, and each of their directors, officers,
+employees and agents, from any and all damages, liabilities, losses, costs,
+and expenses (including attorneys’ fees) resulting from third party claims
+arising from your use, distribution or other exploitation of the Software.
+
+6.  WARRANTY DISCLAIMER.  ISOVALENT PROVIDES THE SOFTWARE “AS IS” AND “AS
+AVAILABLE” WITHOUT ANY WARRANTY OF ANY KIND, AND HEREBY DISCLAIMS, FOR ITSELF
+AND ITS LICENSORS AND SUPPLIERS, ALL EXPRESS AND IMPLIED WARRANTIES, INCLUDING
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, PERFORMANCE,
+ACCURACY, RELIABILITY OR NON-INFRINGEMENT, AND WARRANTIES ARISING OUT OF
+COURSE OF PERFORMANCE, COURSE OF DEALING OR USAGE IN TRADE.  THIS DISCLAIMER
+OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THE AGREEMENT.
+
+7.  LIMITATION OF LIABILITY.  NOTWITHSTANDING ANYTHING ELSE, UNDER NO
+CIRCUMSTANCES SHALL ISOVALENT OR ITS LICENSORS OR SUPPLIERS BE LIABLE TO YOU
+OR ANY OTHER PERSON WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT UNDER
+ANY CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, WARRANTY OR OTHER LEGAL OR
+EQUITABLE THEORY, FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL
+DAMAGES OF ANY KIND, INCLUDING DAMAGES FOR LOST PROFITS, LOSS OF GOODWILL,
+LOSS OF DATA, COSTS OF PROCUREMENT OF SUBSTITUTE GOODS, SERVICES, TECHNOLOGY
+OR RIGHTS, INTERRUPTION OF BUSINESS, ACCURACY OF RESULTS, COMPUTER FAILURE OR
+MALFUNCTION, OR OTHER DAMAGES IN EXCESS OF ONE HUNDRED DOLLARS (US$100), EVEN
+IF AWARE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8.  BASIS OF BARGAIN.  YOU AND ISOVALENT EACH RECOGNIZE AND AGREE THAT THE
+WARRANTY DISCLAIMERS AND LIABILITY AND REMEDY LIMITATIONS IN THIS AGREEMENT
+ARE MATERIAL, BARGAINED FOR BASES FOR THIS AGREEMENT AND THAT THEY HAVE BEEN
+TAKEN INTO ACCOUNT AND REFLECTED IN DETERMINING THE CONSIDERATION TO BE GIVEN
+BY EACH PARTY UNDER THIS AGREEMENT AND IN THE DECISION BY EACH PARTY TO ENTER
+INTO THIS AGREEMENT.
+
+9.  TERMINATION.  You may terminate this Agreement and the license granted
+herein at any time.  In addition to all other available remedies, this
+Agreement and the license granted herein will immediately terminate upon any
+breach of this Agreement by you.  Upon termination, you must destroy or remove
+from all hard drives, networks, and storage media, all copies and extracts of
+the Software.  All remedies for breach, and Sections 2 through 12, shall
+survive any termination of this Agreement.
+
+10.  EXPORT.  You shall comply with all laws, rules and regulations of the
+Department of Commerce, the United States Department of the Treasury Office of
+Foreign Assets Control (“OFAC”), and other United States or foreign agency or
+authority, and not export, or allow the export or re-export of the Software in
+violation of any such restrictions, laws or regulations.  By downloading or
+using the Software or exercising any of the rights granted in this Agreement,
+you are agreeing to the foregoing and representing and warranting that you are
+not located in, under the control of, or a national or resident of any country
+to which the United States has embargoed good or services or similar
+restrictions, and you are not identified as a “Specially Designated National”
+by OFAC, you are not placed on the U.S. Commerce Department’s Denied Persons
+List or any similar lists, and you will not access or use the Software if any
+applicable laws in your country prohibit you from doing so in accordance with
+this Agreement or limit the terms of this Agreement.
+
+11.  GOVERNMENT RESTRICTED RIGHTS.  All Software is deemed to be “commercial
+computer software” and “commercial computer software documentation,”
+respectively, pursuant to DFAR Section 227.7202 and FAR Section 12.212, as
+applicable. Any use, modification, reproduction, release, performance,
+display, transfer or disclosure of the Software by any agency, department or
+other entity of any government, shall be governed solely by the terms of this
+Agreement and shall be prohibited except to the extent expressly permitted by
+the terms herein or in a writing signed by an authorized signatory on behalf
+of Isovalent. No other rights are granted.
+
+12.  MISCELLANEOUS.  This Agreement contains the complete agreement between you
+and Isovalent regarding the Software and supersedes all prior agreements and
+representations between you and Isovalent regarding the Software.  This
+Agreement may only be amended and any provision may only be waived by a
+writing executed by both parties.  You agree to promptly provide Isovalent
+with all information and documentation that Isovalent requests to verify your
+compliance with this Agreement.  If any provision of this Agreement is held to
+be invalid or unenforceable, it shall be reformed to the limited extent
+necessary to make it enforceable.  This Agreement shall be governed by and
+construed in accordance with the laws of California, without regard to its
+conflicts of laws provisions.  The courts located in the County of San
+Francisco, California, will have exclusive jurisdiction and venue under this
+Agreement, except that either party may institute a claim for equitable
+remedies, including injunctive relief and specific performance, in any court
+of competent jurisdiction.  You may not assign or transfer any part of this
+Agreement to any third party.  Isovalent may assign and transfer this
+Agreement without consent in its discretion.  Any breach of this Agreement by
+you would cause irreparable injury to Isovalent for which no adequate remedy
+at law exists, and you agree that equitable remedies, including injunctive
+relief and specific performance, are appropriate remedies to redress any such
+breach or threatened breach, in addition to all other remedies available.  As
+used herein, “including” means “including without limitation”.
